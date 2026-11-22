@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    background-color: #09090b; /* Zinc 950 */
+    color: #f4f4f5;
+  }
+}
